@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Ruby 基础"
+    url: /ruby/
+  - title: "Rails 教程"
+    url: /tutorial/
+  - title: "新闻"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "文章"
+    url: /articles/
+  - title: "关于"
     url: /about/
